@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta author="Maciel Oliveira">
+    <title>Meu CSS inline</title>
+</head>
+<body>
+    <h1 style="color: blue; background-color: yellow; border: 1px solid black;">
+        Olá Mundo!
+    </h1>
+    <p style="color: red;">Meu primeiro comando CSS inline</>
+</body>
+</html>
